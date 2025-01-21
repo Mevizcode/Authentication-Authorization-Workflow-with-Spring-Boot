@@ -12,7 +12,6 @@ This repository contains a comprehensive implementation of an authentication and
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -101,10 +100,6 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
